@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding Mature Deps"
+  short_description: "Prefer mature GitHub and npm projects while vibe coding."
+  default_prompt: "Use $vibe-coding-mature-deps to build an app idea by composing mature GitHub or npm projects first."

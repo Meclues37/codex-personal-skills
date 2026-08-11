@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brainstorm First"
+  short_description: "Clarify ideas and gate risky actions"
+  default_prompt: "Use $brainstorm-first to clarify this idea and propose a safe plan before acting."

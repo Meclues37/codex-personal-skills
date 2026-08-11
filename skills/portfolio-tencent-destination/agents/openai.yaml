@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portfolio Tencent Destination"
+  short_description: "Add portfolio destinations with Tencent COS images"
+  default_prompt: "Use $portfolio-tencent-destination to add a new destination page to my photography portfolio with Tencent COS image delivery."
